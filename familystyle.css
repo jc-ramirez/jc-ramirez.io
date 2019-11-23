@@ -54,7 +54,7 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 35px;
 }
   
 .navbar a:hover {
@@ -64,8 +64,6 @@ body {
 
 .section {
   padding-top: 25px;
-  height: 800px;
-  transition: margin-left .5s;
   padding: 16px;
   text-align: left;
   font-size: 35px;
