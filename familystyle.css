@@ -54,6 +54,7 @@ body {
 
 
 .section {
+  min-height: 1000px;
   padding-top: 100px;
   padding: 16px;
   text-align: left;
@@ -70,4 +71,11 @@ li {
 p {
   font-size: 18px;
 
+}
+
+#oscar {
+  background-image: url(christmas-holly-beside-white-painting-concrete-wall-225251.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
