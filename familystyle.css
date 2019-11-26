@@ -1,6 +1,6 @@
-body {
-    color: whitesmoke;
-    background-color: grey;
+html {
+  scroll-behavior: smooth;
+
 }
 
 .sidenav {
@@ -54,24 +54,22 @@ body {
 
 
 .section {
-  background-color: #f1f1f1;
+  background-color: #f1f1f1f6;
   background-image: url(brown-pine-cone-decors-639123.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
-  background-position-y: bottom;
+  background-position: bottom;
   min-height: 1000px;
-  padding: 16px;
-  margin-top: 100px;
-  padding-bottom: 25%;
   text-align: left;
   font-size: 30px;
   color: black;
 }
 
-li {
-  margin: 12px;
-  font-size: 25px;
 
+
+ol {
+  font-size: 25px;
+  padding-bottom: 180px;
 }
 
 p {
@@ -85,3 +83,11 @@ p {
   color: black;
 
 }
+
+@media only screen and (max-width: 600px) {
+
+  div {
+    font-size: 75px;
+  }
+}
+
