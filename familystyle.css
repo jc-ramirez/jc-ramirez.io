@@ -84,20 +84,5 @@ p {
 
 }
 
-@media only screen and (max-width: 580px) {
 
-  body {
-
-    font-size: 250px;
-  }
-
-  div {
-    font-size: 250px;
-  }
-
-  ol {
-    font-size: 250 px;
-
-  }
-}
 
