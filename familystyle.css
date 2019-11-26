@@ -65,11 +65,16 @@ html {
   color: black;
 }
 
+h2 {
+
+  padding-top: 100px;
+}
+
 
 
 ol {
   font-size: 25px;
-  padding-top: 100px;
+  
   padding-bottom: 300px;
 }
 
